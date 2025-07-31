@@ -1,0 +1,58 @@
+[
+  {
+    "id": 10,
+    "title": "Air Law"
+  },
+  {
+    "id": 21,
+    "title": "Aircraft General Knowledge"
+  },
+  {
+    "id": 22,
+    "title": "Instrumentation"
+  },
+  {
+    "id": 31,
+    "title": "Mass & Balance"
+  },
+  {
+    "id": 32,
+    "title": "Performance"
+  },
+  {
+    "id": 33,
+    "title": "Flight Planning & Monitoring"
+  },
+  {
+    "id": 40,
+    "title": "Human Performance"
+  },
+  {
+    "id": 50,
+    "title": "Meteorology"
+  },
+  {
+    "id": 61,
+    "title": "General Navigation"
+  },
+  {
+    "id": 62,
+    "title": "Radio Navigation"
+  },
+  {
+    "id": 70,
+    "title": "Operational Procedures"
+  },
+  {
+    "id": 80,
+    "title": "Principles of Flight"
+  },
+  {
+    "id": 92,
+    "title": "IFR Communications"
+  },
+  {
+    "id": 93,
+    "title": "VFR Comms"
+  },
+]

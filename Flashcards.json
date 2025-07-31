@@ -1,0 +1,38 @@
+[
+    {
+        "answer":"Give way to traffic on the right and traffic already turning.",
+        "question":"At a junction with roads of equal importance to whom should you give way?"
+    },
+    {
+        "answer":"You should come to a halt at the STOP sign itself.",
+        "question":"At a STOP sign which has no white line where would you stop?"
+    },
+    {
+        "answer":"To help drivers distinguish between the two in snowy conditions.",
+        "question":"Why is a STOP sign octagonal and a YIELD sign triangular (inverted)?"
+    },
+    {
+        "answer":"You would take up position in the extreme right hand lane.",
+        "question":"What position would you take up for a right turn at the end of a one way street?"
+    },
+    {
+        "answer":"A broken yellow line signifies the edge of the roadway, also known as a hard shoulder.",
+        "question":"What does a broken yellow line mean?"
+    },
+    {
+        "answer":"No parking at anytime.",
+        "question":"What does a double yellow line mean?"
+    },
+    {
+        "answer":"The legal parking distance is 45 centimeters, or 1.5 Ft.",
+        "question":"What is the legal parking distance from the Kerb?"
+    },
+    {
+        "answer":"You are permitted to park 5 Metres from a junction.",
+        "question":"How close to a junction can you park?"
+    },
+    {
+        "answer":"That there is an obstruction on the road ahead.",
+        "question":"If you saw a red triangle on the road what would it mean?"
+    }
+]

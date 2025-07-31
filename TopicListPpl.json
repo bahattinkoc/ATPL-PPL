@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "title": "HAVA HUKUKU VE ATC USULLERİ"
+  },
+  {
+    "id": 2,
+    "title": "UÇAK GENEL BİLGİSİ"
+  },
+  {
+    "id": 3,
+    "title": "UÇUŞ PLANLAMA VE PERFORMANS"
+  },
+  {
+    "id": 4,
+    "title": "İNSAN PERFORMANS VE LİMİTLERİ"
+  },
+  {
+    "id": 5,
+    "title": "METEROLOJİ"
+  },
+  {
+    "id": 6,
+    "title": "GENEL SEYRÜSEFER"
+  },
+  {
+    "id": 7,
+    "title": "İŞLETME USULLERİ"
+  },
+  {
+    "id": 8,
+    "title": "UÇUŞ PRENSİPLERİ"
+  },
+  {
+    "id": 9,
+    "title": "HABERLEŞME"
+  }
+]
